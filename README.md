@@ -2,7 +2,7 @@
 Hello this project follows Adrian Sandaker's "Get started with Augmented Reality on the web using Three.js and WebXR" tutorial. 
 
 # Running the app
-After cloning the repo run the following commands to install dependencies and start the app using [Link localtunnel](#https://github.com/localtunnel/localtunnel).
+After cloning the repo run the following commands to install dependencies and start the app using [Link localtunnel](https://github.com/localtunnel/localtunnel) 
 ```
 npm install
 npm start:live
